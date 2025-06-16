@@ -5,8 +5,7 @@
 • Phone: +91-9495407057  
 • LinkedIn: https://www.linkedin.com/in/adarshk2/  
 
-I'm a Software Test Engineer!!  
-5+ years of experience in software testing field with good exposure to Web, API, Mobile, and Peformance testing.
+Skilled in automating tests for Web, Mobile, API, and Performance using tools like Playwright, Appium, REST Assured, Postman, and JMeter. Experienced in building robust test frameworks, integrating with CI/CD, and ensuring quality in Agile environments.
 
 ## Skills  
 • Java  
