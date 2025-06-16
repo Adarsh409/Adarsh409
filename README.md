@@ -18,6 +18,8 @@ I'm a Software Test Engineer!!
 • Jmeter  
 • Cucumber  
 • TestNg  
+• Github  
+• Jenkins  
 
   
 
