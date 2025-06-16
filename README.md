@@ -1,5 +1,9 @@
 ## Hi 👋, I am Adarsh
 ## Test Automation Engineer
+
+Email: adarshksreekripa@gmail.com
+Phone: +91-9495407057
+LinkedIn: https://www.linkedin.com/in/adarshk2/
   
 
   
