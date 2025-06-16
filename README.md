@@ -1,9 +1,9 @@
 ## Hi 👋, I am Adarsh
-## QA Automation Engineer | 5+ Years Experience
+## 💼 QA Automation Engineer | 5+ Years Experience
 
-• Email: adarshksreekripa@gmail.com  
-• Phone: +91-9495407057  
-• LinkedIn: https://www.linkedin.com/in/adarshk2/  
+📥 Email: adarshksreekripa@gmail.com  
+☎️ Phone: +91-9495407057  
+🖇️ LinkedIn: https://www.linkedin.com/in/adarshk2/  
 
 Skilled in automating tests for Web, Mobile, API, and Performance using tools like Playwright, Appium, REST Assured, Postman, and JMeter. Experienced in building robust test frameworks, integrating with CI/CD, and ensuring quality in Agile environments.
 
