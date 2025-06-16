@@ -1,5 +1,5 @@
 ## Hi 👋, I am Adarsh
-## QA Automation Engineer | 5+ Years Experience**
+## QA Automation Engineer | 5+ Years Experience
 
 • Email: adarshksreekripa@gmail.com  
 • Phone: +91-9495407057  
