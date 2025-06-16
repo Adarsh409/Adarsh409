@@ -6,7 +6,7 @@
 • LinkedIn: https://www.linkedin.com/in/adarshk2/  
 
 I'm a Software Test Engineer!!  
-5+ years of experience in software testing field
+5+ years of experience in software testing field with good exposure to Web, API, Mobile, and Peformance testing.
 
 ## Skills  
 • Java  
