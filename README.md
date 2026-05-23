@@ -7,7 +7,7 @@
 
 🌐 LinkedIn: https://www.linkedin.com/in/adarshk2/  
 
-🧪 Skilled in automating tests for Web, Mobile, API, and Performance using tools like Selenium, Playwright, Appium, REST Assured, Postman, and JMeter. Experienced in building robust test frameworks, integrating with CI/CD, and ensuring quality in Agile environments.
+Senior Quality Engineer with 6 years of expertise in the Java ecosystem, specializing in end-to-end Web, API, and Mobile Apps testing. Architect robust, cross-platform frameworks using Playwright, Appium, and Selenium while accelerating the test lifecycle through GenAI-driven automation. Engineer scalable API suites with RestAssured, benchmark system performance using JMeter, and execute deep-dive data validation via SQL. Orchestrate high-velocity CI/CD release cycles and seamless version control using Git and Jenkins.
 
 ## Skills  🚀
 • Java  
