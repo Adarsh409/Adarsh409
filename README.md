@@ -11,6 +11,7 @@ Senior Quality Engineer with 6 years of expertise in the Java ecosystem, special
 
 ## Skills  🚀
 • Java  • Javascript  • Selenium  • Playwright  • RestAssured • Appium • SQL  • Jmeter  • Cucumber  • TestNg  • Github  • Jenkins  
+• Web Apps Testing • API Testing • Mobile Apps Testing
 <!--
 **Adarsh409/Adarsh409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
