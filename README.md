@@ -1,5 +1,5 @@
 ## Hi 👋, I am Adarsh
-## 💼  QA Automation Engineer | 5+ Years Experience
+## 💼  QA Automation Engineer | 6 Years Experience
 
 📥 Email: adarshksreekripa@gmail.com  
 
@@ -14,7 +14,8 @@
 • Javascript  
 • Selenium  
 • Playwright  
-• RestAssured  
+• RestAssured
+• Appium
 • SQL  
 • Jmeter  
 • Cucumber  
